@@ -13,7 +13,7 @@ orcid: 0000-0003-0040-3996
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
 headcolor: 414141
-aboutme: "I am a mathematical evolutionary biologist. In my research, I use analytical and numerical modeling, computer simulations, and data analysis. I am proficient in the **R** programming language and familiar with **Mathematica**, **Matlab**, and a little bit of **C++**, **Python**, and **SQL**. Some of my interests include: data analysis, data visualization, evolutionary game theory, science communication and teaching."
+aboutme: "I am a mathematical evolutionary biologist. In my research, I use analytical and numerical modeling, computer simulations, and data analysis. I am proficient in the **R** programming language and familiar with **Mathematica**, **Matlab**, and a little bit of **SAS**, **C++**, **Python**, and **SQL**. Some of my interests include: data analysis & visualization, evolutionary game theory, clinical trials, science communication and teaching."
 ---
 
 ```{r setup, include=FALSE}
@@ -35,6 +35,15 @@ read_sheet("https://docs.google.com/spreadsheets/d/17Q6xe3vOgU-Tt27Dv9xYBss2BLTE
                    when = Year, 
                    where = Location, 
                    why = Details, .protect = FALSE)
+```
+
+***Other credentials***
+```{r}
+read_sheet("https://docs.google.com/spreadsheets/d/17Q6xe3vOgU-Tt27Dv9xYBss2BLTEDe5HPXOGbpkRSjI/edit#gid=0",
+           sheet = "OtherCredentials") %>%
+  mutate(Year = as.character(Year)) %>% 
+  brief_entries(when = Year,  
+                what = Description, .protect = FALSE)
 ```
 
 # Teaching and Outreach
