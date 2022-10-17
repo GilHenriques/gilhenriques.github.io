@@ -3,4 +3,56 @@ title: "Research"
 editor: visual
 ---
 
-WIP
+I am a theoretical evolutionary biologist, which means I use mathematical models and computer simulations to investigate the interplay of evolutionary and ecological processes. Before transitioning to industry, I researched the evolution of social behaviors such as cooperation and conflict. Past research topics have included sex allocation and biological diversification.
+
+I use a theoretical approach (with an emphasis on adaptive dynamics and individual‑based simulations), occasionally in combination with empirical work. To learn more about my work, take at look at my publications (below), watch my Ph.D. [exit seminar](https://drive.google.com/file/d/1nkYLuEFouVqVUXvg4NqzLxNpD3SVc0La/view?usp=sharing), read my [Ph.D. thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396426), or get in touch.
+
+## 2022
+
+William J.-A. Ou\*, **Gil J. B. Henriques\***, Athmanathan Senthilnathan, Po-Ju Ke, Tess N. Grainger†, Rachel M. Germain†. Writing accessible theory in ecology and evolution: insights from Cognitive Load Theory. In *BioScience*. (\*Equal contribution; †Shared senior authorship)
+
+[<button type="button" class="btn btn-outline-secondary btn-sm">Article</button>](https://academic.oup.com/bioscience/article-abstract/72/3/300/6482999)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Blog (JAWWS)</button>](https://jawws.substack.com/p/paper-review-writing-accessible-theory)
+
+## 2021
+
+**Gil J. B. Henriques\***, Simon van Vliet\*, Michael Doebeli. Multilevel selection favors fragmentation modes that maintain cooperative interactions in multispecies communities. In *PLOS Computational Biology* (\*Equal contribution)
+
+[<button type="button" class="btn btn-outline-secondary btn-sm">Article (open access)</button>](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008896)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Preprint</button>](https://www.biorxiv.org/content/10.1101/2021.03.18.436065v1)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Code and data</button>](http://doi.org/10.5281/zenodo.5102670)
+
+
+**Gil J. B. Henriques**, Koichi Ito, Christoph Hauert, Michael Doebeli. On the importance of evolving phenotype distributions on evolutionary diversification. In *PLOS Computational Biology*
+
+[<button type="button" class="btn btn-outline-secondary btn-sm">Article (open access)</button>](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008733)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Code and data</button>](https://github.com/GilHenriques/2020_simultaneous_branching)
+
+## 2020
+
+**Gil J. B. Henriques**, Matthew M. Osmond. Cooperation can promote rescue or lead to evolutionary suicide during environmental change. In *Evolution*
+
+[<button type="button" class="btn btn-outline-secondary btn-sm">Article</button>](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14028)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Preprint</button>](https://www.biorxiv.org/content/10.1101/784553v1)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Code and data</button>](https://doi.org/10.5061/dryad.bg79cnp83)
+
+Andrés E. Quiñones, **Gil J. B. Henriques**, Ido Pen. Queen‑worker conflict can drive the evolution of social plymorphism and split sex ratios in facultatively eusocial life cycles. In *Evolution*
+
+[<button type="button" class="btn btn-outline-secondary btn-sm">Article</button>](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13844)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Digest</button>](https://doi.org/10.1111/evo.13890)
+
+## 2019
+
+**Gil J. B. Henriques**, Simon Burton, Yaroslav Ispolatov, Michael Doebeli. Acculturation drives the evolution of intergroup conflict. In *Proceedings of the National Academy of Sciences of the USA*
+
+[<button type="button" class="btn btn-outline-secondary btn-sm">Article (open access)</button>](https://www.pnas.org/doi/10.1073/pnas.1810404116)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Code and data</button>](https://github.com/GilHenriques/acculturation2019/tree/master)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Press (Scientific Inquirer)</button>](https://scientificinquirer.com/2019/09/19/conversations-with-burt-simon-and-gil-henriques-reframing-intergroup-conflicts/)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Press (Science Daily)</button>](https://www.sciencedaily.com/releases/2019/07/190709091146.htm)
+
+## 2016
+
+Eva J. P. Lievens, **Gil J. B. Henriques**, Yannis Michalakis, Thomas Lenormand. Maladaptive sex ratio adjustment in the invasive brine shrimp Artemia franciscana. In *Current Biology*
+
+[<button type="button" class="btn btn-outline-secondary btn-sm">Article (open access)</button>](https://www.cell.com/current-biology/fulltext/S0960-9822(16)30327-X)
+[<button type="button" class="btn btn-outline-secondary btn-sm">Digest</button>](https://www.cell.com/current-biology/fulltext/S0960-9822(16)30357-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982216303578%3Fshowall%3Dtrue)
