@@ -1,5 +1,15 @@
 ---
-title: "Education"
+title: "🎓 Education"
 ---
 
-WIP
+## **PhD**
+
+In 2021, I defended my Ph.D. in Zoology, at the [Biodiversity Research Centre](https://biodiversity.ubc.ca/), in the [University of British Columbia](https://gilhenriques.github.io/www.ubc.ca), in Vancouver BC, Canada, under the supervision of [Dr Michael Doebeli](https://www.zoology.ubc.ca/~doebeli/webpage/). To learn more about my Ph.D. research, you can watch my Ph.D. [exit seminar](https://drive.google.com/file/d/1nkYLuEFouVqVUXvg4NqzLxNpD3SVc0La/view?usp=sharing), read my [Ph.D. thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396426), or [get in touch](https://gilhenriques.github.io/index.html).
+
+## **MSc**
+
+In 2015, I graduated *summa cum laude* from the Erasmus Mundus Master Programme in Evolutionary Biology ([MEME](https://www.evobio.eu/)), obtaining a double degree from the [University of Groningen](https://www.rug.nl/) in the Netherlands (supervised by [Dr Ido Pen](https://www.rug.nl/staff/i.r.pen/)) and [Uppsala University](https://www.uu.se/en/) in Sweden (jointly supervised by [Dr Claus Rueffler](https://katalog.uu.se/profile/?id=N13-2069) and [Dr Simone Immler](https://simoneimmler.com/)).
+
+# BSc
+
+I got my undergraduate degree in Biology in 2013 from the [University of Lisbon](https://www.ulisboa.pt/en), in my home country of Portugal. I specialized in Evolutionary and Developmental Biology.
