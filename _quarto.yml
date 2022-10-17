@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "gilhenriques.github.io"
+  title: "Gil J. B. Henriques"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: 🏡 Home
+      - href: education.qmd
+        text: 🎓 Education
+      - href: research.qmd
+        text: 📚 Research
+      - href: cv.qmd
+        text: 📃 CV
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
