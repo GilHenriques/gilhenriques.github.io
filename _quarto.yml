@@ -12,14 +12,15 @@ website:
         text: 🎓 Education
       - href: research.qmd
         text: 📚 Research
-      - href: cv.qmd
-        text: 📃 CV
+#      - href: cv.qmd
+#        text: 📃 CV
 
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
 editor: visual
-

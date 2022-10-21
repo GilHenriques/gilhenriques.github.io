@@ -2,42 +2,42 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "📚 Research",
     "section": "",
     "text": "I am a theoretical evolutionary biologist, which means I use mathematical models and computer simulations to investigate the interplay of evolutionary and ecological processes. Before transitioning to industry, I researched the evolution of social behaviors such as cooperation and conflict. Past research topics have included sex allocation and biological diversification.\nI use a theoretical approach (with an emphasis on adaptive dynamics and individual‑based simulations), occasionally in combination with empirical work. To learn more about my work, take at look at my publications (below), watch my Ph.D. exit seminar, read my Ph.D. thesis, or get in touch."
   },
   {
     "objectID": "research.html#section",
     "href": "research.html#section",
-    "title": "Research",
+    "title": "📚 Research",
     "section": "2022",
     "text": "2022\nWilliam J.-A. Ou*, Gil J. B. Henriques*, Athmanathan Senthilnathan, Po-Ju Ke, Tess N. Grainger†, Rachel M. Germain†. Writing accessible theory in ecology and evolution: insights from Cognitive Load Theory. In BioScience. (*Equal contribution; †Shared senior authorship)\nArticle Blog (JAWWS)"
   },
   {
     "objectID": "research.html#section-1",
     "href": "research.html#section-1",
-    "title": "Research",
+    "title": "📚 Research",
     "section": "2021",
     "text": "2021\nGil J. B. Henriques*, Simon van Vliet*, Michael Doebeli. Multilevel selection favors fragmentation modes that maintain cooperative interactions in multispecies communities. In PLOS Computational Biology (*Equal contribution)\nArticle (open access) Preprint Code and data\nGil J. B. Henriques, Koichi Ito, Christoph Hauert, Michael Doebeli. On the importance of evolving phenotype distributions on evolutionary diversification. In PLOS Computational Biology\nArticle (open access) Code and data"
   },
   {
     "objectID": "research.html#section-2",
     "href": "research.html#section-2",
-    "title": "Research",
+    "title": "📚 Research",
     "section": "2020",
     "text": "2020\nGil J. B. Henriques, Matthew M. Osmond. Cooperation can promote rescue or lead to evolutionary suicide during environmental change. In Evolution\nArticle Preprint Code and data\nAndrés E. Quiñones, Gil J. B. Henriques, Ido Pen. Queen‑worker conflict can drive the evolution of social plymorphism and split sex ratios in facultatively eusocial life cycles. In Evolution\nArticle Digest"
   },
   {
     "objectID": "research.html#section-3",
     "href": "research.html#section-3",
-    "title": "Research",
+    "title": "📚 Research",
     "section": "2019",
     "text": "2019\nGil J. B. Henriques, Simon Burton, Yaroslav Ispolatov, Michael Doebeli. Acculturation drives the evolution of intergroup conflict. In Proceedings of the National Academy of Sciences of the USA\nArticle (open access) Code and data Press (Scientific Inquirer) Press (Science Daily)"
   },
   {
     "objectID": "research.html#section-4",
     "href": "research.html#section-4",
-    "title": "Research",
+    "title": "📚 Research",
     "section": "2016",
     "text": "2016\nEva J. P. Lievens, Gil J. B. Henriques, Yannis Michalakis, Thomas Lenormand. Maladaptive sex ratio adjustment in the invasive brine shrimp Artemia franciscana. In Current Biology\nArticle (open access) Digest"
   },
@@ -46,13 +46,20 @@
     "href": "index.html",
     "title": "Gil J. B. Henriques",
     "section": "",
-    "text": "I am a theoretical evolutionary biologist and a Data Scientist at Olink Proteomics, where I work on the Development team. Among other tasks, I provide internal support for product development, quality control, and performance qualifications. In my research, I have used mathematical models and computer simulations to investigate evolutionary and ecological processes, such as the dynamics of social behaviors. Get in touch to chat about science, politics, or science fiction.\n📍 Uppsala, Sweden"
+    "text": "My name is Gil (g as in measure), and I’m a theoretical evolutionary biologist and a data scientist at Olink Proteomics, where I work on the Development team. Among other tasks, I contribute to the development of high-multiplex products to identify actionable biomarkers. In my research, I have used mathematical models and computer simulations to investigate evolutionary and ecological processes, such as the dynamics of social behaviors. Get in touch to chat about science, politics, or science fiction.\n📍 Uppsala, Sweden"
   },
   {
     "objectID": "education.html",
     "href": "education.html",
-    "title": "Education",
+    "title": "🎓 Education",
     "section": "",
-    "text": "WIP"
+    "text": "In 2021, I defended my Ph.D. in Zoology, at the Biodiversity Research Centre, in the University of British Columbia, in Vancouver BC, Canada, under the supervision of Dr Michael Doebeli. To learn more about my Ph.D. research, you can watch my Ph.D. exit seminar, read my Ph.D. thesis, or get in touch."
+  },
+  {
+    "objectID": "education.html#msc",
+    "href": "education.html#msc",
+    "title": "🎓 Education",
+    "section": "MSc",
+    "text": "MSc\nIn 2015, I graduated summa cum laude from the Erasmus Mundus Master Programme in Evolutionary Biology (MEME), obtaining a double degree from the University of Groningen in the Netherlands (supervised by Dr Ido Pen) and Uppsala University in Sweden (jointly supervised by Dr Claus Rueffler and Dr Simone Immler)."
   }
 ]

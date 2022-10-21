@@ -1,10 +1,11 @@
 ---
 title: "Gil J. B. Henriques"
+subtitle: 'Data scientist <span style="color: grey;">· *He/him</span>*'
 image: 'gotakanal_cropped.png'
 about:
   template: trestles
   image-shape: round
-  image-width: 12em
+  image-width: 10em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -25,6 +26,6 @@ about:
 
 ## Hi there! 👋
 
-I am a theoretical evolutionary biologist and a Data Scientist at [Olink Proteomics](https://www.olink.com), where I work on the Development team. Among other tasks, I provide internal support for product development, quality control, and performance qualifications. In my [research](research.qmd), I have used mathematical models and computer simulations to investigate evolutionary and ecological processes, such as the dynamics of social behaviors. Get in touch to chat about science, politics, or science fiction.
+My name is Gil (*<u>g</u>* as in *mea<u>s</u>ure*), and I'm a theoretical evolutionary biologist and a data scientist at [Olink Proteomics](https://www.olink.com), where I work on the Development team. Among other tasks, I contribute to the development of high-multiplex products to identify actionable biomarkers. In my [research](research.qmd), I have used mathematical models and computer simulations to investigate evolutionary and ecological processes, such as the dynamics of social behaviors. Get in touch to chat about science, politics, or science fiction.
 
 📍 **Uppsala, Sweden**

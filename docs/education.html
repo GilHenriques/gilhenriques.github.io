@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Gil J. B. Henriques - Education</title>
+<title>Gil J. B. Henriques - 🎓 Education</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,10 +30,12 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -81,10 +83,10 @@ ul.task-list{list-style: none;}
   <li class="nav-item">
     <a class="nav-link" href="./research.html">📚 Research</a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./cv.html">📃 CV</a>
-  </li>  
 </ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+              </div>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -95,14 +97,22 @@ ul.task-list{list-style: none;}
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#phd" id="toc-phd" class="nav-link active" data-scroll-target="#phd"><strong>PhD</strong></a></li>
+  <li><a href="#msc" id="toc-msc" class="nav-link" data-scroll-target="#msc"><strong>MSc</strong></a></li>
+  <li><a href="#bsc" id="toc-bsc" class="nav-link" data-scroll-target="#bsc">BSc</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Education</h1>
+<h1 class="title">🎓 Education</h1>
 </div>
 
 
@@ -116,9 +126,20 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>WIP</p>
+<section id="phd" class="level2">
+<h2 class="anchored" data-anchor-id="phd"><strong>PhD</strong></h2>
+<p>In 2021, I defended my Ph.D.&nbsp;in Zoology, at the <a href="https://biodiversity.ubc.ca/">Biodiversity Research Centre</a>, in the <a href="https://gilhenriques.github.io/www.ubc.ca">University of British Columbia</a>, in Vancouver BC, Canada, under the supervision of <a href="https://www.zoology.ubc.ca/~doebeli/webpage/">Dr Michael Doebeli</a>. To learn more about my Ph.D.&nbsp;research, you can watch my Ph.D.&nbsp;<a href="https://drive.google.com/file/d/1nkYLuEFouVqVUXvg4NqzLxNpD3SVc0La/view?usp=sharing">exit seminar</a>, read my <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0396426">Ph.D.&nbsp;thesis</a>, or <a href="https://gilhenriques.github.io/index.html">get in touch</a>.</p>
+</section>
+<section id="msc" class="level2">
+<h2 class="anchored" data-anchor-id="msc"><strong>MSc</strong></h2>
+<p>In 2015, I graduated <em>summa cum laude</em> from the Erasmus Mundus Master Programme in Evolutionary Biology (<a href="https://www.evobio.eu/">MEME</a>), obtaining a double degree from the <a href="https://www.rug.nl/">University of Groningen</a> in the Netherlands (supervised by <a href="https://www.rug.nl/staff/i.r.pen/">Dr Ido Pen</a>) and <a href="https://www.uu.se/en/">Uppsala University</a> in Sweden (jointly supervised by <a href="https://katalog.uu.se/profile/?id=N13-2069">Dr Claus Rueffler</a> and <a href="https://simoneimmler.com/">Dr Simone Immler</a>).</p>
+</section>
+<section id="bsc" class="level1">
+<h1>BSc</h1>
+<p>I got my undergraduate degree in Biology in 2013 from the <a href="https://www.ulisboa.pt/en">University of Lisbon</a>, in my home country of Portugal. I specialized in Evolutionary and Developmental Biology.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -141,6 +162,109 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } 
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
