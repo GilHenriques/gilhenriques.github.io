@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Gil J. B. Henriques",
     "section": "",
-    "text": "My name is Gil and I’m a theoretical evolutionary biologist and a data scientist at Olink Proteomics, where I work on the Development team. Among other tasks, I develop internal R packages and help create high-multiplex products to identify actionable biomarkers. In my research, I have used mathematical models and computer simulations to investigate evolutionary and ecological processes, such as the dynamics of social behaviors. Get in touch to chat about science, politics, or science fiction.\n📍 Uppsala, Sweden"
+    "text": "Hi there! 👋\nMy name is Gil and I’m a theoretical evolutionary biologist and a data scientist at Olink Proteomics, where I work on the Development team. Among other tasks, I develop internal R packages and help create high-multiplex products to identify actionable biomarkers. In my research, I have used mathematical models and computer simulations to investigate evolutionary and ecological processes, such as the dynamics of social behaviors. Get in touch to chat about science, politics, or science fiction.\n📍 Uppsala, Sweden"
   },
   {
     "objectID": "education.html",
@@ -61,5 +61,19 @@
     "title": "🎓 Education",
     "section": "MSc",
     "text": "MSc\nIn 2015, I graduated summa cum laude from the Erasmus Mundus Master Programme in Evolutionary Biology (MEME), obtaining a double degree from the University of Groningen in the Netherlands (supervised by Dr Ido Pen) and Uppsala University in Sweden (jointly supervised by Dr Claus Rueffler and Dr Simone Immler)."
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "Gil J. B. Henriques",
+    "section": "",
+    "text": "My name is Gil and I’m a theoretical evolutionary biologist and a data scientist at Olink Proteomics, where I work on the Development team. Among other tasks, I develop internal R packages and help create high-multiplex products to identify actionable biomarkers. In my research, I have used mathematical models and computer simulations to investigate evolutionary and ecological processes, such as the dynamics of social behaviors. Get in touch to chat about science, politics, or science fiction.\n📍 Uppsala, Sweden"
+  },
+  {
+    "objectID": "education.html#phd",
+    "href": "education.html#phd",
+    "title": "🎓 Education",
+    "section": "",
+    "text": "In 2021, I defended my Ph.D. in Zoology, at the Biodiversity Research Centre, in the University of British Columbia, in Vancouver BC, Canada, under the supervision of Dr Michael Doebeli. To learn more about my Ph.D. research, you can watch my Ph.D. exit seminar, read my Ph.D. thesis, or get in touch."
   }
 ]
